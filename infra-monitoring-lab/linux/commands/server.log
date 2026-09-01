@@ -1,0 +1,10 @@
+[200~INFO Server started
+INFO Database connected
+WARNING High memory usage
+ERROR Database connection failed
+INFO User authenticated
+ERROR Request timeout
+WARNING CPU usage high
+INFO Request completed
+ERROR API unavailable
+INFO Server running~

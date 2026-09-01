@@ -1,0 +1,2 @@
+ to check the path type:pwd \n to make folder use:mkdir \n to move around use :cd .. to go backward and cd . to be in same folder \n to make file use: touch filename.extension 
+ to copy the content of 1 file use cp SOURCE DESTINATION 
