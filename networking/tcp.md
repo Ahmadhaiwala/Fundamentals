@@ -1,3 +1,4 @@
+https://beej.us/guide/bgnet0/html/split/transmission-control-protocol-tcp.html?utm_source=chatgpt.com
 14 Transmission Control Protocol (TCP)
 
 When someone puts a backhoe through a fiber optic cable, packets might be lost. (Entire countries have been brought offline by having a boat anchor dragged through an undersea network cable!) Software errors and computer crashes and router malfunctions can all cause problems.
