@@ -1374,22 +1374,4 @@ We have covered the important **behavioral foundation of PostgreSQL indexing**:
 
 ## Next Level 2 Topic
 
-🔥 **MVCC — Multi-Version Concurrency Control**
 
-This is where PostgreSQL starts getting *really* interesting:
-
-```text
-UPDATE row
-   ↓
-Does PostgreSQL overwrite the old row?
-   ↓
-What happens when another transaction is reading it?
-   ↓
-Why can two users see different versions?
-   ↓
-Why does UPDATE sometimes create extra row versions?
-   ↓
-Why do we need VACUUM?
-```
-
-That will connect directly to the index-maintenance question you just asked.
